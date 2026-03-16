@@ -30,7 +30,7 @@
 
 
 <h2> Personal Projects </h2>
-These are some little proyects i've done, whether to try and learn new technologies and environments, or purely for fun! nothing to be proud of, but I like to share it anyways :) 
+These are some little projects i've done, whether to try and learn new technologies and environments, or purely for fun! nothing to be proud of, but I like to share it anyways :) 
 
 - <a href="https://github.com/HugoJT83/API-REST-CRUD-tareas.git"> Task manager API RESTful</a>, done with Java and Spring Boot using Hibernate; ready to use locally by default, just clone it!
 - <a href="https://github.com/HugoJT83/proyecto-Laravel-CRUD.git"> D&D Character stats manager</a>, done with Laravel and PHP, using Docker to handle the Database; it will have more feats in the future, as I work in it!
