@@ -24,7 +24,7 @@
   </p>
 
 <h4>  I'm also available on LinkedIn!</h4> 
-<a  href="www.linkedin.com/in/hugo-jariod-tomás-15a39b3b2">
+<a  href="https://www.linkedin.com/in/hugo-jariod-tomás-15a39b3b2">
   <img alt="LinkedIn" width="24px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
