@@ -36,5 +36,7 @@ These are some little projects i've done, whether to try and learn new technolog
 - <a href="https://github.com/HugoJT83/API-REST-CRUD-tareas.git">Task manager API RESTful</a>, done with Java and Spring Boot using Hibernate; ready to use locally by default, just clone it!
   
 - <a href="https://github.com/HugoJT83/proyecto-Laravel-CRUD.git">D&D Character stats manager</a>, done with Laravel and PHP, using Docker to handle the Database; it will have more feats in the future, as I work in it!
+  
+- <a href="https://github.com/HugoJT83/Biblioteca-CRUD.git">Book Manager</a>, done with Laravel, PHP, TailwindCSS and DaisyUI; a basic CRUD made for studying purposes, but I think it has turned out quite stylish.
 
 
