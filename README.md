@@ -1,7 +1,8 @@
 # Hi! i'm Hugo jariod
 ![Listening](https://img.shields.io/badge/listening_to-Smashing_Pumpkins-green?logo=youtubemusic&link=https%3A%2F%2Fmusic.youtube.com%2Fplaylist%3Flist%3DOLAK5uy_k00TJUAla-j386Kzl12O6C8TBcyFxBo48%26si%3DUFli85ZTU8Bd0XgA)
 ![Playing](https://img.shields.io/badge/currently_playing-Baldur's_Gate_3-red?logo=steam)
-![Working](https://img.shields.io/badge/working_on-MAZE_App-blue)
+![Working](https://img.shields.io/badge/Working_on-MAZE_App-blue?logo=git&logoColor=white)
+
 
 
 <p> This is a repository made to give a little info about me and the things I do on GitHub; I hope that you find something of your liking!</p>
